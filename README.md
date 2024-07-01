@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on obfuscator
-- 🌱 I’m currently learning JavaScript、PHP and Python
+- 🌱 I’m currently learning JavaScript、Three.js、PHP and Python
 - 🤔
 - 💬
 - 📫

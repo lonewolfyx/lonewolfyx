@@ -25,6 +25,6 @@
 <br>
 
 <div align="center">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lonewolfyx&hide_border=true&show_icons=trueline_height=22&locale=cn" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lonewolfyx&hide_border=true&show_icons=trueline_height=22&locale=cn&show_icons=true" />
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfyx&hide_border=true&layout=compact&langs_count=6&locale=cn" />
 </div>

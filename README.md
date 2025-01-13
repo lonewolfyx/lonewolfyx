@@ -17,11 +17,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-fqwe?style=flat&logo=javascript&logoColor=%23ffffff&color=%23F7DF1E)
 ![TypeScript 写了想骂人](https://img.shields.io/badge/Typescript-DSFHJ?style=flat&logo=typescript&logoColor=%23ffffff&color=%233178C6)
 ![Vite](https://img.shields.io/badge/Vite-RTGHN?style=flat&logo=vite&logoColor=%23ffffff&color=%23646CFF)
+![NestJs](https://img.shields.io/badge/NestJs-hvQWSk77xI?style=flat&logo=nestjs&color=%23E0234E)
 ![Node.js](https://img.shields.io/badge/Node.js-UHB?style=flat&logo=nodedotjs&logoColor=%23ffffff&color=%235FA04E)
 ![Php](https://img.shields.io/badge/PHP-TGBNM?style=flat&logo=php&logoColor=%23ffffff&color=%23777BB4)
 ![Python](https://img.shields.io/badge/Python-ERTYUI?style=flat&logo=python&logoColor=%23ffffff&color=%23FBE842)
 ![MySQL](https://img.shields.io/badge/Mysql-UHBV?style=flat&logo=mysql&logoColor=%23ffffff&color=%234479A1)
-
 <br>
 
 <div align="center">

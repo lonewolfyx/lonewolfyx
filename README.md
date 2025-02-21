@@ -31,5 +31,10 @@
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfyx&hide_border=true&layout=compact&langs_count=6&locale=cn" />
 </div>
 <div align="center">
-    <img width="99.9%" src="https://streak-stats.demolab.com?user=lonewolfyx&card_width=1200" />
+    <details>
+        <summary>More stats</summary>
+        <div align="center">
+            <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lonewolfyx&theme=transparent" />
+        </div>
+    </details>
 </div>

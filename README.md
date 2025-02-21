@@ -24,7 +24,12 @@
 ![MySQL](https://img.shields.io/badge/Mysql-UHBV?style=flat&logo=mysql&logoColor=%23ffffff&color=%234479A1)
 <br>
 
+## 💻 GitHub Profile Stats
+
 <div align="center">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lonewolfyx&hide_border=true&show_icons=trueline_height=22&locale=cn&show_icons=true" />
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfyx&hide_border=true&layout=compact&langs_count=6&locale=cn" />
+</div>
+<div align="center">
+    <img width="99.9%" src="https://streak-stats.demolab.com?user=lonewolfyx&card_width=1200" />
 </div>

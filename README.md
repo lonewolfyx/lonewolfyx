@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=lonewolfyx&label=Profile%20views&color=0e75b6&style=flat" alt="lonewolfyx" /> </p>
-
 <h1 align="left">❤Hi 👋  I'm Here!❤</h1>
 
 ![profileviews](https://komarev.com/ghpvc/?username=lonewolfyx&label=Profile%20views&color=0e75b6&style=flat)

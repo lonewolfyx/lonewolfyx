@@ -11,6 +11,7 @@
 ![TypeScript 写了想骂人](https://img.shields.io/badge/Typescript-DSFHJ?style=flat&logo=typescript&logoColor=%23ffffff&color=%233178C6)
 ![Vite](https://img.shields.io/badge/Vite-RTGHN?style=flat&logo=vite&logoColor=%23ffffff&color=%23646CFF)
 ![NestJs](https://img.shields.io/badge/NestJs-hvQWSk77xI?style=flat&logo=nestjs&color=%23E0234E)
+![NuxtJs](https://img.shields.io/badge/NuxtJs-UIGSD?style=flat&logo=nuxt&logoColor=%23ffffff&color=#00DC82)
 ![Node.js](https://img.shields.io/badge/Node.js-UHB?style=flat&logo=nodedotjs&logoColor=%23ffffff&color=%235FA04E)
 ![Bun](https://img.shields.io/badge/Bun-l9GZNGit?logo=bun&logoColor=%23ffffff&color=%23000000)
 ![Php](https://img.shields.io/badge/PHP-TGBNM?style=flat&logo=php&logoColor=%23ffffff&color=%23777BB4)

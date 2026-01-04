@@ -3,6 +3,9 @@
 ![profileviews](https://komarev.com/ghpvc/?username=lonewolfyx&label=Profile%20views&color=0e75b6&style=flat)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lonewolfyx.lonewolfyx)
 
+<!-- 凡人修仙传贡献图 -->
+![GitHub 统计](https://github-immortality.vercel.app/api?username=lonewolfyx)
+
 <br>
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-sd?style=flat&logo=vuedotjs&logoColor=%23FFF)

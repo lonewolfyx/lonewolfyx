@@ -37,25 +37,25 @@ npx lonewolfyx
 ```
 
 <div align="center">
-    <img width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=lonewolfyx&theme=nord&color=4080FF&point=4080FF&hide_border=true&line=9FD4FD&title_color=4080FF&icon_color=4080FF&text_color=9FD4FD&bg_color=9ca3af00&locale=cn" />
+    <img width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=lonewolfyx&theme=nord&color=4080FF&point=4080FF&hide_border=true&line=9FD4FD&title_color=4080FF&icon_color=4080FF&text_color=9FD4FD&bg_color=9ca3af00&locale=cn" alt="lonewolfyx-activity-contribution-graph"/>
 </div>
 
 <div>
     <details>
         <summary>More info</summary>
         <div align="center">
-            <img height="170px" src="https://github-immortality.vercel.app/api?username=lonewolfyx" />
-            <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lonewolfyx&hide_border=true&show_icons=trueline_height=22&locale=cn&show_icons=true" />
-            <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfyx&hide_border=true&layout=compact&langs_count=6&locale=cn" />
+            <img height="170px" src="https://github-immortality.vercel.app/api?username=lonewolfyx" alt="lonewolfyx-github-immortality" />
+            <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lonewolfyx&hide_border=true&show_icons=trueline_height=22&locale=cn&show_icons=true" alt="lonewolfyx-github-readme"/>
+            <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfyx&hide_border=true&layout=compact&langs_count=6&locale=cn" alt="lonewolfyx-github-readme"/>
         </div>
         <div align="center">
-            <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lonewolfyx&theme=transparent" />
+            <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lonewolfyx&theme=transparent" alt="lonewolfyx-github-profile-summary"/>
         </div>
     </details>
 </div>
 
 #### 📊 Weekly development breakdown
-        
+
 <!--START_SECTION:waka-->
 
 ```txt

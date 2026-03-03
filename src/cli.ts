@@ -1,3 +1,4 @@
+import { intro, outro } from '@clack/prompts'
 import { createMain, defineCommand } from 'citty'
 import { description, name, version } from 'package.json'
 
@@ -8,10 +9,10 @@ const command = defineCommand({
         description,
     },
     setup() {
-        console.log('Setup')
+        intro('Hi')
     },
     cleanup() {
-        console.log('Cleanup')
+        outro('welcome review my info')
     },
     run({ args }) {
         console.log(args)

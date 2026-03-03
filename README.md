@@ -1,12 +1,27 @@
 <h1 align="left">❤Hi 👋  I'm Here!❤</h1>
 
-![profileviews](https://komarev.com/ghpvc/?username=lonewolfyx&label=Profile%20views&color=0e75b6&style=flat)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=lonewolfyx.lonewolfyx)
+<p align="center">
+  <samp>
+    <a href="https://antfu.me">me</a> .
+    <a href="https://antfu.me/posts">blog</a> .
+    <a href="https://antfu.me/projects">projects</a> .
+    <a href="https://antfu.me/talks">talks</a> .
+    <a href="https://antfu.me/podcasts">podcasts</a> .
+    <a href="https://100.antfu.me">compform</a> .
+    <a href="https://bsky.app/profile/antfu.me">bluesky</a> .
+    <a href="https://twitter.com/antfu7">tweets</a> .
+    <a href="https://chat.antfu.me">discord</a> .
+    <a href="https://antfu.me/photos">photos</a> .
+    <a href="https://github.com/sponsors/antfu">sponsor</a>
+  </samp>
+</p>
 
-<!-- 凡人修仙传贡献图 -->
-![GitHub 统计](https://github-immortality.vercel.app/api?username=lonewolfyx)
-
-<br>
+<p align="center">
+  <samp>
+    <img src="https://komarev.com/ghpvc/?username=lonewolfyx&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=lonewolfyx.lonewolfyx" alt="visitors" />
+  </samp>
+</p>
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-sd?style=flat&logo=vuedotjs&logoColor=%23FFF)
 ![React.js](https://img.shields.io/badge/React.js-fqwe?style=flat&logo=react&logoColor=%23ffffff&color=%2361DAFB)
@@ -29,8 +44,8 @@
 <div>
     <details>
         <summary>More info</summary>
-        💻 GitHub Profile Stats
         <div align="center">
+            <img height="170px" src="https://github-immortality.vercel.app/api?username=lonewolfyx" />
             <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lonewolfyx&hide_border=true&show_icons=trueline_height=22&locale=cn&show_icons=true" />
             <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfyx&hide_border=true&layout=compact&langs_count=6&locale=cn" />
         </div>

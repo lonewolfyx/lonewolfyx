@@ -16,21 +16,20 @@
   </samp>
 </p>
 
-```shell
+```zsh
 $ whoami
 lonewolfyx · Design Engineer · Open Source Contributor
 
 $ echo stack
-· NodeJs, Npm, Pnpm, Bun
-· JavaScript, TypeScript, Vuejs, ReactJs
-· TailwindCSS
-· NuxtJs, NestJs
-· Vite, Rolldown, Tsup, TsDown, Turbo
-· Python, Php
-· MySql, Redis, PostgreSql
+> Frontend  :: JavaScript, TypeScript, Vue.js, React, Nuxt, TailwindCSS
+> Backend   :: Node.js, NestJS, Python, PHP
+> Runtime   :: Bun, Pnpm, Node
+> Tooling   :: Vite, Rolldown, Tsup, TsDown, Turbo
+> Database  :: PostgreSQL, MySQL, Redis
 ```
 
 or see more:
+
 ```bash
 npx lonewolfyx
 ```

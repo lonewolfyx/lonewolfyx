@@ -1,6 +1,7 @@
 import { intro, log, note, outro } from '@clack/prompts'
 import { createMain, defineCommand } from 'citty'
 import { description, name, version } from 'package.json'
+import { gradientText } from '@/utils.ts'
 
 interface IStack {
     label: string
@@ -71,7 +72,7 @@ const command = defineCommand({
     run() {
         note(
             [
-                'lonewolfyx',
+                gradientText('lonewolfyx'),
                 'Design Engineer',
                 'Open Source Contributor',
             ].join(' · '),

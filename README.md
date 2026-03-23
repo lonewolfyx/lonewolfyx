@@ -5,7 +5,7 @@
     <a href="https://lonewolfyx.vercel.app/">me</a> .
     <a href="https://lonewolfyx.vercel.app/blogs">blog</a> .
     <a href="https://lonewolfyx.vercel.app/projects">projects</a> .
-    <a href="https://afdian.com/a/lonewolfyx">afdian.com</a>
+    <a href="https://ifdian.net/a/lonewolfyx">ifdian</a>
   </samp>
 </p>
 

@@ -59,11 +59,11 @@ npx lonewolfyx
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       16 hrs 26 mins        ██████████████▒░░░░░░░░░░   57.63 %
-Vue              6 hrs 44 mins         ██████░░░░░░░░░░░░░░░░░░░   23.62 %
-JavaScript       2 hrs 28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-Markdown         1 hr 15 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Image (svg)      32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+TypeScript       10 hrs 30 mins        ███████████░░░░░░░░░░░░░░   44.20 %
+Vue              5 hrs 20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
+JavaScript       2 hrs 46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+Markdown         2 hrs 8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+JSON             1 hr 46 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
 ```
 
 <!--END_SECTION:waka-->

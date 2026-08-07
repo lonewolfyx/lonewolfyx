@@ -1,0 +1,50 @@
+name: Update Profile Statistics
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-statistics
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v7
+
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=vue
+          path: profile/metrics/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=vue
+          path: profile/metrics/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v10
+        with:
+          author_name: lonewolfyx
+          author_email: olddrivero.king@qq.com
+          message: 'chore: refresh profile statistics'
+          add: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}

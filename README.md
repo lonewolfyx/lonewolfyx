@@ -45,8 +45,8 @@ npx lonewolfyx
         <summary>More info</summary>
         <div align="center">
             <img height="170px" src="https://github-immortality.vercel.app/api?username=lonewolfyx" alt="lonewolfyx-github-immortality" />
-            <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lonewolfyx&hide_border=true&show_icons=trueline_height=22&locale=cn&show_icons=true" alt="lonewolfyx-github-readme"/>
-            <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolfyx&hide_border=true&layout=compact&langs_count=6&locale=cn" alt="lonewolfyx-github-readme"/>
+            <img height="170px" src="./profile/metrics/stats.svg" alt="lonewolfyx-github-stats"/>
+            <img height="170px" src="./profile/metrics/top-languages.svg" alt="lonewolfyx-github-top-languages"/>
         </div>
         <div align="center">
             <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lonewolfyx&theme=transparent" alt="lonewolfyx-github-profile-summary"/>

@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">OldDriver&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 299, Total Commits  : 7469, Total PRs: 540, Total PRs Merged: 524, Merged PRs Percentage: 97.04, Total PRs Reviewed: 1, Total Issues: 35, Total Discussions Started: 1, Total Discussions Answered: 0, PRs Commented: 5, PRs Reviewed: 4, Issues Commented: 9, Contributed to (last year): 45</desc>
+        <desc id="descId">Total Stars Earned: 299, Total Commits  : 7477, Total PRs: 547, Total PRs Merged: 531, Merged PRs Percentage: 97.07, Total PRs Reviewed: 1, Total Issues: 35, Total Discussions Started: 1, Total Discussions Answered: 0, PRs Commented: 5, PRs Reviewed: 4, Issues Commented: 9, Contributed to (last year): 45</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 36.95906990682984;
+        stroke-dashoffset: 36.95450333474422;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >540</text>
+      >547</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >524</text>
+      >531</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >97.04 %</text>
+      >97.07 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">

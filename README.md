@@ -51,7 +51,6 @@ npx lonewolfyx
         <div align="center">
             <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lonewolfyx&theme=transparent" alt="lonewolfyx-github-profile-summary"/>
         </div>
-
         <div align="center">
             <img width="80%" src="./profile/github-pr-stats.svg" alt="lonewolfyx-github-pr-stats"/>
         </div>

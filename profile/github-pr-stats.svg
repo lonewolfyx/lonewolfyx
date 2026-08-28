@@ -140,7 +140,7 @@
     x="24"
     y="52"
     class="summary"
-  >221 PRs · 35 repositories</text>
+  >222 PRs · 35 repositories</text>
 
   <rect
     x="0"
@@ -207,14 +207,14 @@
             />
 
             <a
-              href="https://github.com/vue-blocks/vue-blocks"
+              href="https://github.com/antdv-next/cli"
               target="_blank"
             >
               <text
                 x="24"
                 y="136"
                 class="repository"
-              >vue-blocks/vue-blocks</text>
+              >antdv-next/cli</text>
             </a>
 
             <text
@@ -227,19 +227,19 @@
               x="540"
               y="136"
               class="cell"
-            >2025-09-08</text>
+            >2026-08-11</text>
 
             <text
               x="690"
               y="136"
               class="cell"
-            >2025-10-09</text>
+            >2026-08-28</text>
 
             <text
               x="850"
               y="136"
               class="cell number"
-            >26</text>
+            >21</text>
           </g>
         
           <g class="row row-alt">
@@ -260,39 +260,39 @@
             />
 
             <a
-              href="https://github.com/antdv-next/cli"
+              href="https://github.com/vue-blocks/vue-blocks"
               target="_blank"
             >
               <text
                 x="24"
                 y="180"
                 class="repository"
-              >antdv-next/cli</text>
+              >vue-blocks/vue-blocks</text>
             </a>
 
             <text
               x="420"
               y="180"
               class="cell number"
-            >57</text>
+            >58</text>
 
             <text
               x="540"
               y="180"
               class="cell"
-            >2026-08-11</text>
+            >2025-09-08</text>
 
             <text
               x="690"
               y="180"
               class="cell"
-            >2026-08-27</text>
+            >2025-10-09</text>
 
             <text
               x="850"
               y="180"
               class="cell number"
-            >21</text>
+            >26</text>
           </g>
         
           <g class="row">

@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">OldDriver&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 299, Total Commits  : 7734, Total PRs: 603, Total PRs Merged: 585, Merged PRs Percentage: 97.01, Total PRs Reviewed: 1, Total Issues: 38, Total Discussions Started: 1, Total Discussions Answered: 0, PRs Commented: 5, PRs Reviewed: 4, Issues Commented: 10, Contributed to (last year): 48</desc>
+        <desc id="descId">Total Stars Earned: 299, Total Commits  : 7736, Total PRs: 603, Total PRs Merged: 585, Merged PRs Percentage: 97.01, Total PRs Reviewed: 1, Total Issues: 38, Total Discussions Started: 1, Total Discussions Answered: 0, PRs Commented: 5, PRs Reviewed: 4, Issues Commented: 10, Contributed to (last year): 48</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 36.2476666454445;
+        stroke-dashoffset: 36.24739407605321;
       }
     }
   

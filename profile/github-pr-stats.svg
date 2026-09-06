@@ -140,7 +140,7 @@
     x="24"
     y="52"
     class="summary"
-  >263 PRs · 41 repositories</text>
+  >264 PRs · 41 repositories</text>
 
   <rect
     x="0"
@@ -1108,14 +1108,14 @@
             />
 
             <a
-              href="https://github.com/vuepont/ai-elements-vue"
+              href="https://github.com/vuejs-community/vuejs-community"
               target="_blank"
             >
               <text
                 x="24"
                 y="884"
                 class="repository"
-              >vuepont/ai-elements-vue</text>
+              >vuejs-community/vuejs-community</text>
             </a>
 
             <text
@@ -1128,19 +1128,19 @@
               x="540"
               y="884"
               class="cell"
-            >2025-12-03</text>
+            >2026-09-06</text>
 
             <text
               x="690"
               y="884"
               class="cell"
-            >2025-12-15</text>
+            >2026-09-06</text>
 
             <text
               x="850"
               y="884"
               class="cell number"
-            >1.2k</text>
+            >0</text>
           </g>
         
           <g class="row">
@@ -1161,39 +1161,39 @@
             />
 
             <a
-              href="https://github.com/antdv-next/vue-components"
+              href="https://github.com/vuepont/ai-elements-vue"
               target="_blank"
             >
               <text
                 x="24"
                 y="928"
                 class="repository"
-              >antdv-next/vue-components</text>
+              >vuepont/ai-elements-vue</text>
             </a>
 
             <text
               x="420"
               y="928"
               class="cell number"
-            >2</text>
+            >3</text>
 
             <text
               x="540"
               y="928"
               class="cell"
-            >2026-08-05</text>
+            >2025-12-03</text>
 
             <text
               x="690"
               y="928"
               class="cell"
-            >2026-08-05</text>
+            >2025-12-15</text>
 
             <text
               x="850"
               y="928"
               class="cell number"
-            >29</text>
+            >1.2k</text>
           </g>
         
           <g class="row row-alt">
@@ -1214,14 +1214,14 @@
             />
 
             <a
-              href="https://github.com/lonewolfyx-workflows/github-pr-stats"
+              href="https://github.com/antdv-next/vue-components"
               target="_blank"
             >
               <text
                 x="24"
                 y="972"
                 class="repository"
-              >lonewolfyx-workflows/github-pr-stats</text>
+              >antdv-next/vue-components</text>
             </a>
 
             <text
@@ -1234,19 +1234,19 @@
               x="540"
               y="972"
               class="cell"
-            >2026-08-26</text>
+            >2026-08-05</text>
 
             <text
               x="690"
               y="972"
               class="cell"
-            >2026-08-27</text>
+            >2026-08-05</text>
 
             <text
               x="850"
               y="972"
               class="cell number"
-            >0</text>
+            >29</text>
           </g>
         
           <g class="row">
@@ -1267,14 +1267,14 @@
             />
 
             <a
-              href="https://github.com/oxconfig/oxfmt-config"
+              href="https://github.com/lonewolfyx-workflows/github-pr-stats"
               target="_blank"
             >
               <text
                 x="24"
                 y="1016"
                 class="repository"
-              >oxconfig/oxfmt-config</text>
+              >lonewolfyx-workflows/github-pr-stats</text>
             </a>
 
             <text
@@ -1287,13 +1287,13 @@
               x="540"
               y="1016"
               class="cell"
-            >2026-02-06</text>
+            >2026-08-26</text>
 
             <text
               x="690"
               y="1016"
               class="cell"
-            >2026-02-06</text>
+            >2026-08-27</text>
 
             <text
               x="850"
@@ -1320,14 +1320,14 @@
             />
 
             <a
-              href="https://github.com/ScaffoldCore/shadcn-vue-registry"
+              href="https://github.com/oxconfig/oxfmt-config"
               target="_blank"
             >
               <text
                 x="24"
                 y="1060"
                 class="repository"
-              >ScaffoldCore/shadcn-vue-registry</text>
+              >oxconfig/oxfmt-config</text>
             </a>
 
             <text
@@ -1340,19 +1340,19 @@
               x="540"
               y="1060"
               class="cell"
-            >2025-12-05</text>
+            >2026-02-06</text>
 
             <text
               x="690"
               y="1060"
               class="cell"
-            >2026-01-12</text>
+            >2026-02-06</text>
 
             <text
               x="850"
               y="1060"
               class="cell number"
-            >4</text>
+            >0</text>
           </g>
         
           <g class="row">
@@ -1373,14 +1373,14 @@
             />
 
             <a
-              href="https://github.com/vitest-dev/docs-cn"
+              href="https://github.com/ScaffoldCore/shadcn-vue-registry"
               target="_blank"
             >
               <text
                 x="24"
                 y="1104"
                 class="repository"
-              >vitest-dev/docs-cn</text>
+              >ScaffoldCore/shadcn-vue-registry</text>
             </a>
 
             <text
@@ -1393,19 +1393,19 @@
               x="540"
               y="1104"
               class="cell"
-            >2025-12-04</text>
+            >2025-12-05</text>
 
             <text
               x="690"
               y="1104"
               class="cell"
-            >2025-12-12</text>
+            >2026-01-12</text>
 
             <text
               x="850"
               y="1104"
               class="cell number"
-            >164</text>
+            >4</text>
           </g>
         
           <g class="row row-alt">
@@ -1426,14 +1426,14 @@
             />
 
             <a
-              href="https://github.com/vitest-dev/eslint-plugin-vitest"
+              href="https://github.com/vitest-dev/docs-cn"
               target="_blank"
             >
               <text
                 x="24"
                 y="1148"
                 class="repository"
-              >vitest-dev/eslint-plugin-vitest</text>
+              >vitest-dev/docs-cn</text>
             </a>
 
             <text
@@ -1446,19 +1446,19 @@
               x="540"
               y="1148"
               class="cell"
-            >2025-09-24</text>
+            >2025-12-04</text>
 
             <text
               x="690"
               y="1148"
               class="cell"
-            >2025-09-24</text>
+            >2025-12-12</text>
 
             <text
               x="850"
               y="1148"
               class="cell number"
-            >509</text>
+            >164</text>
           </g>
         
           <g class="row">
@@ -1479,14 +1479,14 @@
             />
 
             <a
-              href="https://github.com/vuejs-community/vuejs-community"
+              href="https://github.com/vitest-dev/eslint-plugin-vitest"
               target="_blank"
             >
               <text
                 x="24"
                 y="1192"
                 class="repository"
-              >vuejs-community/vuejs-community</text>
+              >vitest-dev/eslint-plugin-vitest</text>
             </a>
 
             <text
@@ -1499,19 +1499,19 @@
               x="540"
               y="1192"
               class="cell"
-            >2026-09-06</text>
+            >2025-09-24</text>
 
             <text
               x="690"
               y="1192"
               class="cell"
-            >2026-09-06</text>
+            >2025-09-24</text>
 
             <text
               x="850"
               y="1192"
               class="cell number"
-            >0</text>
+            >509</text>
           </g>
         
           <g class="row row-alt">

@@ -140,7 +140,7 @@
     x="24"
     y="52"
     class="summary"
-  >296 PRs · 41 repositories</text>
+  >310 PRs · 41 repositories</text>
 
   <rect
     x="0"
@@ -327,7 +327,7 @@
               x="420"
               y="224"
               class="cell number"
-            >34</text>
+            >48</text>
 
             <text
               x="540"
@@ -345,7 +345,7 @@
               x="850"
               y="224"
               class="cell number"
-            >13</text>
+            >15</text>
           </g>
         
           <g class="row row-alt">
@@ -610,7 +610,7 @@
               x="850"
               y="444"
               class="cell number"
-            >99.4k</text>
+            >99.5k</text>
           </g>
         
           <g class="row">

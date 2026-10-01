@@ -4,91 +4,91 @@ import { description, name, version } from 'package.json'
 import { gradientText } from '@/utils.ts'
 
 interface IStack {
-    label: string
-    stacks: string[]
+  label: string
+  stacks: string[]
 }
 
 const stack: IStack[] = [
-    {
-        label: 'Frontend',
-        stacks: [
-            'JavaScript',
-            'TypeScript',
-            'Vue.js',
-            'React',
-            'Nuxt',
-            'TailwindCSS',
-        ],
-    },
-    {
-        label: 'Backend',
-        stacks: [
-            'Node.js',
-            'NestJS',
-            'Python',
-            'PHP',
-        ],
-    },
-    {
-        label: 'Runtime',
-        stacks: [
-            'Bun',
-            'Pnpm',
-            'Node',
-        ],
-    },
-    {
-        label: 'Tooling',
-        stacks: [
-            'Vite',
-            'Rolldown',
-            'Tsup',
-            'TsDown',
-            'Turbo',
-        ],
-    },
-    {
-        label: 'Database',
-        stacks: [
-            'PostgreSQL',
-            'MySQL',
-            'Redis',
-        ],
-    },
+  {
+    label: 'Frontend',
+    stacks: [
+      'JavaScript',
+      'TypeScript',
+      'Vue.js',
+      'React',
+      'Nuxt',
+      'TailwindCSS',
+    ],
+  },
+  {
+    label: 'Backend',
+    stacks: [
+      'Node.js',
+      'NestJS',
+      'Python',
+      'PHP',
+    ],
+  },
+  {
+    label: 'Runtime',
+    stacks: [
+      'Bun',
+      'Pnpm',
+      'Node',
+    ],
+  },
+  {
+    label: 'Tooling',
+    stacks: [
+      'Vite',
+      'Rolldown',
+      'Tsup',
+      'TsDown',
+      'Turbo',
+    ],
+  },
+  {
+    label: 'Database',
+    stacks: [
+      'PostgreSQL',
+      'MySQL',
+      'Redis',
+    ],
+  },
 ]
 
 const command = defineCommand({
-    meta: {
-        name,
-        version,
-        description,
-    },
-    setup() {
-        intro('Hi')
-    },
-    cleanup() {
-        outro('welcome review my info')
-    },
-    run() {
-        note(
-            [
-                gradientText('lonewolfyx'),
-                'Design Engineer',
-                'Open Source Contributor',
-            ].join(' · '),
-            '$ whoami',
-        )
+  meta: {
+    name,
+    version,
+    description,
+  },
+  setup() {
+    intro('Hi')
+  },
+  cleanup() {
+    outro('welcome review my info')
+  },
+  run() {
+    note(
+      [
+        gradientText('lonewolfyx'),
+        'Design Engineer',
+        'Open Source Contributor',
+      ].join(' · '),
+      '$ whoami',
+    )
 
-        note(
-            stack.map((s) => {
-                return `> ${s.label.padEnd(10)} :: ${s.stacks.join(', ')}`
-            }).join('\n'),
-            '$ echo stack',
-        )
+    note(
+      stack.map((s) => {
+        return `> ${s.label.padEnd(10)} :: ${s.stacks.join(', ')}`
+      }).join('\n'),
+      '$ echo stack',
+    )
 
-        log.success('$ echo github\n https://github.com/lonewolfyx')
-        log.success('$ echo website\n https://lonewolfyx.vercel.app')
-    },
+    log.success('$ echo github\n https://github.com/lonewolfyx')
+    log.success('$ echo website\n https://lonewolfyx.vercel.app')
+  },
 })
 
 createMain(command)({})

@@ -2,7 +2,7 @@
   "name": "lonewolfyx",
   "type": "module",
   "version": "1.0.1",
-  "packageManager": "pnpm@12.8.1",
+  "packageManager": "pnpm@12.9.1",
   "description": "Hi, I am lonewolfyx, And You can call me OldDriver",
   "author": "lonewolfyx <olddrivero.king@qq.com>",
   "license": "MIT",
@@ -42,7 +42,7 @@
   "devDependencies": {
     "@antfu/eslint-config": "^9.5.1",
     "@lonewolfyx/tsconfig": "^0.0.6",
-    "@types/node": "^25.9.8",
+    "@types/node": "^25.9.9",
     "eslint": "^10.11.0",
     "lint-staged": "^17.6.0",
     "picocolors": "^1.1.1",

@@ -140,7 +140,7 @@
     x="24"
     y="52"
     class="summary"
-  >549 PRs · 45 repositories</text>
+  >550 PRs · 45 repositories</text>
 
   <rect
     x="0"
@@ -207,14 +207,14 @@
             />
 
             <a
-              href="https://github.com/vuejs-community/vuejs-community"
+              href="https://github.com/lonewolfyx-collective/pm"
               target="_blank"
             >
               <text
                 x="24"
                 y="136"
                 class="repository"
-              >vuejs-community/vuejs-community</text>
+              >lonewolfyx-collective/pm</text>
             </a>
 
             <text
@@ -227,19 +227,19 @@
               x="540"
               y="136"
               class="cell"
-            >2026-09-06</text>
+            >2026-10-04</text>
 
             <text
               x="690"
               y="136"
               class="cell"
-            >2026-09-22</text>
+            >2026-10-19</text>
 
             <text
               x="850"
               y="136"
               class="cell number"
-            >15</text>
+            >1</text>
           </g>
         
           <g class="row row-alt">
@@ -260,39 +260,39 @@
             />
 
             <a
-              href="https://github.com/lonewolfyx-collective/pm"
+              href="https://github.com/vuejs-community/vuejs-community"
               target="_blank"
             >
               <text
                 x="24"
                 y="180"
                 class="repository"
-              >lonewolfyx-collective/pm</text>
+              >vuejs-community/vuejs-community</text>
             </a>
 
             <text
               x="420"
               y="180"
               class="cell number"
-            >82</text>
+            >83</text>
 
             <text
               x="540"
               y="180"
               class="cell"
-            >2026-10-04</text>
+            >2026-09-06</text>
 
             <text
               x="690"
               y="180"
               class="cell"
-            >2026-10-18</text>
+            >2026-09-22</text>
 
             <text
               x="850"
               y="180"
               class="cell number"
-            >1</text>
+            >15</text>
           </g>
         
           <g class="row">
@@ -1829,7 +1829,7 @@
               x="850"
               y="1456"
               class="cell number"
-            >513</text>
+            >514</text>
           </g>
         
           <g class="row row-alt">
@@ -2412,7 +2412,7 @@
               x="850"
               y="1940"
               class="cell number"
-            >309</text>
+            >310</text>
           </g>
         
           <g class="row">
